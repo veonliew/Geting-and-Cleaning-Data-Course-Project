@@ -2,24 +2,11 @@
 
 One of the most exciting areas in all of data science right now is wearable computing - see for example this article .  Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users.  In this project, data collected from the accelerometers from the Samsung Galaxy S smartphone, were retrieved, worked with and cleaned.  The goal is to prepare tidy data that can be used for later analysis. 
 
+This repository contains the following files:
 
+* README.md (this file), which provides an overview of the data set and how the analysis files is clear and understandable.  It explains how all of the scripts work and how they are connected.
 
- 
-
-
-
-This repository contains the
-following files:
-
-
-
-
- README.md (this file), which provides an
-     overview of the data set and how the analysis files is clear and
-     understandable.  It explains how all
-     of the scripts work and how they are connected.
-
- CodeBook.md, the code book, which describes the
+* CodeBook.md, the code book, which describes the
      data, variables and transformations or work used to clean up the data, and
      any other relevant information.
 
