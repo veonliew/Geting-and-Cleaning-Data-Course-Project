@@ -6,22 +6,13 @@ This repository contains the following files:
 
 * README.md (this file), which provides an overview of the data set and how the analysis files is clear and understandable.  It explains how all of the scripts work and how they are connected.
 
-* CodeBook.md, the code book, which describes the
-     data, variables and transformations or work used to clean up the data, and
-     any other relevant information.
+* CodeBook.md, the code book, which describes the data, variables and transformations or work used to clean up the data, and any other relevant information.
 
- run_analysis.R, the required R script that was used
-     to create the data set (see the Creating the data set section below)
+* run_analysis.R, the required R script that was used to create the data set (see the Creating the data set section below)
 
- secTidyDataSet.txt, which contains the data set.
+* secTidyDataSet.txt, which contains the data set.
 
-
-
- 
-
-
-
-Data Set Information
+## Data Set Information
 
 
 
